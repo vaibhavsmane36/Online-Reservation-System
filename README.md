@@ -1,1 +1,1 @@
-# Online-Reservation-System
+Online Reservation System Using Java programming language
